@@ -37,6 +37,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ### DB
 ## install Convex
---- npm i convex
+npm i convex
 ## Every time U make changes u should run convex to save changes
---- npx convex dev
+npx convex dev
+
+## install getStream for video call
+npm i @stream-io/video-react-sdk 
+npm i @stream-io/node-sdk
